@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ferdous Hasan</h1>
-<h3 align="center">A passionate</h3>
+<h3 align="center">I am passionate about SQA, client support, problem-solving, and improving software usability, and I want to build my career in software quality assurance.</h3>
+
+- 🔭 I’m currently working on Somikoron It LTd [Somikoron ERP Software](pms.somikoronitltd.com)
+
+- 🌱 I’m currently learning **Automation Testing**
+
+- 👯 I’m looking to collaborate on [Somikoron ERP Software](Somikoron ERP Software)
+
+- 🤝 I’m looking for help with [Somikoron ERP Software](Somikoron ERP Software)
+
+- 📫 How to reach me **ferdoushasan382@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
