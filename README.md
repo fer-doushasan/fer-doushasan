@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🔬 Currently working as a **Junior Software QA Engineer** at **BD Funnel Builder Limited**, testing a SaaS e-commerce platform.
+- 🔬 Currently working as a **Jr. Software QA Engineer** at **BD Funnel Builder Limited**, testing a SaaS e-commerce platform.
 - 🧪 1.7+ years of experience across **Manual, Regression, Smoke, Sanity, and API Testing**.
 - 🤖 Also build with **Next.js, React, and FastAPI** — bridging QA with hands-on development.
 - 🌱 Currently sharpening skills in **Test Automation (Playwright, Selenium)** and **AI-assisted Quality Engineering**.
