@@ -33,13 +33,4 @@
 | [**Personal Portfolio**](https://github.com/fer-doushasan/my_portfolio) | Responsive portfolio site built with Next.js, TypeScript & Tailwind CSS, with a live contact form. |
 | [**E-commerce QA Automation**](https://github.com/fer-doushasan/ecommerce_automation-with-playwright) | Automated test suite for an e-commerce platform using Playwright. |
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fer-doushasan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fer-doushasan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 <p align="center"><i>Open to Software QA, Automation, and AI Application Development opportunities.</i></p>
